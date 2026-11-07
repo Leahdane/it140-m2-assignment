@@ -273,14 +273,15 @@ TODO: Replace this text with your explanation of how the design addresses requir
 >
 > Enter your response below.
 
-* Current year: TODO: Replace with the current year from Test 1.
-* User name: TODO: Replace with the user name from Test 1.
-* User age: TODO: Replace with the user age from Test 1.
+*  Current year: 2026
+* User name: Jordan
+* User age: 25
+
 
 #### Test Processing
 
 > **Where to look:**
->
+>* 
 > * [SRS](./analysis/name_age_srs.md) → `## 1. Functional Requirements` → requirement **1.4**
 > * [SDD](./design/name_age_sdd.md) → `## 6. Program Logic and Control Flow`
 > * [Pseudocode](./design/name_age.pseudo) → the step that calculates the birth year
@@ -288,8 +289,8 @@ TODO: Replace this text with your explanation of how the design addresses requir
 > **Prompt:** Show the birth-year calculation using the Test 1 values.
 >
 > Enter your calculation below.
+User's approximate birth year = 2026 - 25 = 2001
 
-User's approximate birth year = TODO: Replace with the calculation using the Test 1 values (e.g., current year - user age).
 
 #### Expected Output
 
@@ -299,11 +300,11 @@ User's approximate birth year = TODO: Replace with the calculation using the Tes
 >
 > Enter your response below.
 
-Expected output for Test 1:
+Expected output for Test 1: Hello Jordan! You were born in 2001.
 
 > Compare your hand-calculated result with the expected result:
 >
-> * [ ] My result matches the expected result.
+> * [ x] My result matches the expected result.
 > * [ ] My result does not match. I need to review the SRS and design before continuing.
 
 ### 10. Questions or Unclear Information
@@ -323,8 +324,7 @@ Expected output for Test 1:
 >
 > Enter your response below. Use a separate numbered bullet for each question or unclear item.
 
-1. TODO: Replace with your first question or unclear item, or enter **None** if everything is clear.
-
+1. **None** 
 > If you cannot resolve a repository or course-IDE question, use the [Module Two Assignment GitHub Discussions](https://github.com/GC-STEM/it140-m2-assignment/discussions). Use [GitHub Issues](https://github.com/GC-STEM/it140-m2-assignment/issues) to report a technical problem with the provided repository files or tools. Contact your instructor through D2L Brightspace for questions about assignment requirements, grading, or feedback.
 
 ### 11. Ready to Construct
@@ -342,12 +342,12 @@ Expected output for Test 1:
 >
 > Before continuing to the Construct phase, make sure:
 >
-> * [ ] I can explain what the program must accomplish.
-> * [ ] I understand its inputs, processing, and outputs.
-> * [ ] I understand the major steps in the provided design.
-> * [ ] I checked the design using a provided acceptance test case.
-> * [ ] I recorded or resolved anything that was unclear.
-> * [ ] I am ready to use the starter code to construct the program.
+> * [ x] I can explain what the program must accomplish.
+> * [ x] I understand its inputs, processing, and outputs.
+> * [x ] I understand the major steps in the provided design.
+> * [x ] I checked the design using a provided acceptance test case.
+> * [ x] I recorded or resolved anything that was unclear.
+> * [ x] I am ready to use the starter code to construct the program.
 >
 > When these checks are complete, continue to the [Construct phase](./src/README.md).
 
