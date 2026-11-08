@@ -1,4 +1,4 @@
-"""Asks for a name and age, then estimates and displays the birth year.
+"""Prompts for a name and age, then estimates and displays the birth year.
 
 Input:
 Name: string from user input.
