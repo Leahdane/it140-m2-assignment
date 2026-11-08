@@ -2,34 +2,19 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+Using the course IDE for my first programming assignment was new and a little challenging, but it helped me keep my work organized. I used it to write, run, and test my name-and-age program. The three features I found most helpful were the Explorer, syntax highlighting, and the integrated terminal. These features can help beginning programmers understand their code and find problems more easily.
 
-TODO: Replace with your introduction here.
+## Feature 1 – Explorer
 
-## Feature 1 – TODO: Replace with name of your Feature1
+The Explorer helped me view and open the files and folders for my assignment. I used it to find the README instructions, the software development worksheet, and the name_age.py file. It made my work easier because I could move between the instructions and my code without getting lost. This feature is useful for beginners because it keeps all project files organized in one place.
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+## Feature 2 – Syntax Highlighting
+Syntax highlighting uses different colors for parts of the Python code, such as keywords, strings, variables, and comments. While writing my program, the colors helped me read the code and notice where quotation marks or parentheses might be missing. It also helped me understand the difference between instructions, comments, and actual code. This made programming easier because the code was clearer to read.
 
-TODO: Replace with your Feature 1 paragraph here.
+## Feature 3 – Integrated Terminal
 
-## Feature 2 – TODO: Replace with name of your Feature2
-
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
-
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
+The integrated terminal allowed me to run and test the program without leaving the IDE. I used it to enter a name and age and check whether the program displayed the correct birth year. When there was a problem, the terminal showed information that helped me understand what needed to be corrected. This feature made testing faster and helped me see how the program worked.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
-
-TODO: Replace with your conclusion here.
-
-## References
-
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
+This assignment helped me learn how an IDE supports the programming process. The Explorer kept my files organized, syntax highlighting made my code easier to read, and the integrated terminal helped me test the program. I can use these features in future assignments to work more carefully and find errors more easily.
